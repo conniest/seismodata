@@ -1,0 +1,2 @@
+# seismodata
+log files
