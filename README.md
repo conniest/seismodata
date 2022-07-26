@@ -1,9 +1,12 @@
 # seismodata
 log files
 
-source of data - seismolog.py
-Geotech Teledyne seismometer
+source of data
+Geotech Teledyne seismometer with A/D converter
 In basement of 216 Noe
+
+seislog.py
+scripts at https://github.com/iveyj1/helicorder.git
 
 Sources of noise:
 
