@@ -1,0 +1,10 @@
+python3 seislog.py  # first
+python3 monitor.py  # second, from another window
+
+note changes to seislog.conf in order to turn on data logging, 
+set the appropriate tty (get this from dmesg), and
+set the limits in the monitor window to make activity visible
+
+script is written to start a new log file daily
+may need a cron job to restart after a failure
+
